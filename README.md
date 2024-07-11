@@ -1,11 +1,6 @@
-Sure! Here's a lively and engaging README for your Image Search App, highlighting the fun features and modern design elements.
-
----
-
-# 📸 Welcome to the Awesome Image Search App! 🌟
-
  ![image](https://github.com/seeker-Anushri/Image-Search-App/assets/112256322/5eaf192e-cf83-4f49-bae8-7c2e0a299d15)
 
+# 📸 Welcome to the Awesome Image Search App! 🌟
 
 ## 🌟 Project Description
 
