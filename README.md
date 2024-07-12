@@ -1,5 +1,5 @@
  ![image](https://github.com/seeker-Anushri/Image-Search-App/assets/112256322/5eaf192e-cf83-4f49-bae8-7c2e0a299d15)
-
+[![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Image-Search-App/)
 # 📸 Welcome to the Awesome Image Search App! 🌟
 
 ## 🌟 Project Description
